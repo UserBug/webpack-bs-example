@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/UserBug/webpack-bs-example/issues"
   },
-  "homepage": "https://github.com/UserBug/webpack-bs-example#readme"
+  "homepage": "https://github.com/UserBug/webpack-bs-example#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
 }
